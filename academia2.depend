@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514136974 source:c:\users\z003vvsr\desktop\faculdade\progii\t2\academia2\main.cpp
+	<iostream>
+
+1529104375 source:c:\users\z003vvsr\desktop\faculdade\progii\t2\academia2\src\abc.cpp
+	"abc.h"
+
+1529104375 c:\users\z003vvsr\desktop\faculdade\progii\t2\academia2\include\abc.h
+
+1529186822 source:c:\users\z003vvsr\desktop\faculdade\progii\t2\academia\src\abc.cpp
+	"abc.h"
+
+1529186335 c:\users\z003vvsr\desktop\faculdade\progii\t2\academia\include\abc.h
+	<iostream>
+
