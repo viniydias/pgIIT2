@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1530574044 source:c:\users\z003vvsr\desktop\faculdade\progii\trabalho final\academia\src\plano.cpp
+	"Plano.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1530571718 c:\users\z003vvsr\desktop\faculdade\progii\trabalho final\academia\include\plano.h
+	<iostream>
+	<vector>
+
+1530574722 source:c:\users\z003vvsr\desktop\faculdade\progii\trabalho final\academia\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"Plano.h"
+
